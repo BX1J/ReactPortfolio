@@ -27,7 +27,7 @@ const Work = () => {
           />
         </div>
       </div>
-        <div className="h-[100vh] w-full border-2 border-black mt-2 text-center bg-black-200"><h3>now this is where the rest will go in a new component</h3></div>
+        <div className="h-[100vh] w-full border-2 border-black mt-2 text-center bg-black-200 flex items-center justify-center"><h3 className="text-3xl">now this is where the rest will go in a new component</h3></div>
     </>
   );
 };
